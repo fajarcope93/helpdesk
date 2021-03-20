@@ -1,0 +1,40 @@
+Login HelpDesk System
+
+admin
+user : K0001
+pass : 123
+
+teknisi
+user : K0003
+pass : 123
+
+user : K0002
+pass : 123
+
+Fitur Admin
+New Ticket
+List Ticket
+Approval Ticket
+My Ticket
+Assigment Ticket
+Karyawan
+User
+Jabatan
+Departement
+Bagian Departement
+Kategori
+Sub Kategori
+Teknisi
+Report Teknisi
+Kondisi
+Informasi
+News
+
+Fitur Teknisi
+My Assigment Ticket
+News
+
+Fitur User
+New Ticket
+My Ticket
+News
